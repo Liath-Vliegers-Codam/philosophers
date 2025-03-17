@@ -1,0 +1,114 @@
+failed tests:
+
+5 210 100 100 20		ik weet niet zeker of deze wel moet kunnen...
+3 100 200 110		- yes die, maar blijft hangen
+
+
+
+Laura's Tests!
+
+NO ONE SHOULD DIE
+5 800 200 200
+5 600 150 150
+4 410 200 200
+100 800 200 200
+105 800 200 200
+200 800 200 200
+3 650 200 100
+
+DIE DIE DIE
+1 800 200 200
+4 310 200 100
+4 200 205 200
+3 100 200 110
+3 100 200 210
+
+
+
+
+
+
+
+
+NO DIE:
+
+4 410 200 200 7
+no one should die, simulation should stop after 7 eats (minumum eats: 28)
+4 410 200 200 10
+no one should die, simulation should stop after 10 eats (minumum eats: 40)
+4 410 200 200 12
+no one should die, simulation should stop after 12 eats (minumum eats: 48)
+4 410 200 200 15
+no one should die, simulation should stop after 15 eats (minumum eats: 60)
+
+4 311 150 150 7
+no one should die, simulation should stop after 7 eats (minumum eats: 28)
+4 311 150 150 10
+no one should die, simulation should stop after 10 eats (minumum eats: 40)
+4 311 150 150 12
+no one should die, simulation should stop after 12 eats (minumum eats: 48)
+4 311 150 150 15
+no one should die, simulation should stop after 15 eats (minumum eats: 60)
+
+4 800 200 200 7
+no one should die, simulation should stop after 7 eats (minumum eats: 28)
+4 800 200 200 10
+no one should die, simulation should stop after 10 eats (minumum eats: 40)
+4 800 200 200 12
+no one should die, simulation should stop after 12 eats (minumum eats: 48)
+4 800 200 200 15
+no one should die, simulation should stop after 15 eats (minumum eats: 60)
+
+5 800 200 200 7
+no one should die, simulation should stop after 7 eats (minumum eats: 35)
+5 800 200 200 10
+no one should die, simulation should stop after 10 eats (minumum eats: 50)
+5 800 200 200 12
+no one should die, simulation should stop after 12 eats (minumum eats: 60)
+5 800 200 200 15
+no one should die, simulation should stop after 15 eats (minumum eats: 75)
+
+5 600 150 150 7
+no one should die, simulation should stop after 7 eats (minumum eats: 35)
+5 600 150 150 10
+no one should die, simulation should stop after 10 eats (minumum eats: 50)
+5 600 150 150 12
+no one should die, simulation should stop after 12 eats (minumum eats: 60)
+5 600 150 150 15
+no one should die, simulation should stop after 15 eats (minumum eats: 75)
+
+100 210 100 100 7
+no one should die, simulation should stop after 7 eats (minumum eats: 700)
+100 210 100 100 10
+no one should die, simulation should stop after 10 eats (minumum eats: 1000)
+100 210 100 100 12
+no one should die, simulation should stop after 12 eats (minumum eats: 1200)
+100 210 100 100 15
+no one should die, simulation should stop after 15 eats (minumum eats: 1500)
+
+100 800 200 200 7
+no one should die, simulation should stop after 7 eats (minumum eats: 700)
+100 800 200 200 10
+no one should die, simulation should stop after 10 eats (minumum eats: 1000)
+100 800 200 200 12
+no one should die, simulation should stop after 12 eats (minumum eats: 1200)
+100 800 200 200 15
+no one should die, simulation should stop after 15 eats (minumum eats: 1500)
+
+105 800 200 200 7
+no one should die, simulation should stop after 7 eats (minumum eats: 735)
+105 800 200 200 10
+no one should die, simulation should stop after 10 eats (minumum eats: 1050)
+105 800 200 200 12
+no one should die, simulation should stop after 12 eats (minumum eats: 1260)
+105 800 200 200 15
+no one should die, simulation should stop after 15 eats (minumum eats: 1575)
+
+200 800 200 200 7
+no one should die, simulation should stop after 7 eats (minumum eats: 1400)
+200 800 200 200 10
+no one should die, simulation should stop after 10 eats (minumum eats: 2000)
+200 800 200 200 12
+no one should die, simulation should stop after 12 eats (minumum eats: 2400)
+200 800 200 200 15
+no one should die, simulation should stop after 15 eats (minumum eats: 3000)

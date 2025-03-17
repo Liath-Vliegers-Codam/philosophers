@@ -1,0 +1,42 @@
+4 210 100 100 20
+no one should die, simulation should stop after 20 eats (minumum eats: 80)
+4 410 200 200 20
+no one should die, simulation should stop after 20 eats (minumum eats: 80)
+4 311 150 150 20
+no one should die, simulation should stop after 20 eats (minumum eats: 80)
+4 800 200 200 20
+no one should die, simulation should stop after 20 eats (minumum eats: 80)
+5 800 200 200 20
+no one should die, simulation should stop after 20 eats (minumum eats: 100)
+5 600 150 150 20
+no one should die, simulation should stop after 20 eats (minumum eats: 100)
+100 210 100 100 20
+no one should die, simulation should stop after 20 eats (minumum eats: 2000)
+100 800 200 200 20
+no one should die, simulation should stop after 20 eats (minumum eats: 2000)
+105 800 200 200 20
+no one should die, simulation should stop after 20 eats (minumum eats: 2100)
+200 800 200 200 20
+no one should die, simulation should stop after 20 eats (minumum eats: 4000)
+5 210 100 100 0
+no one should die, simulation should stop after 0 eats (minumum eats: 0)
+4 210 100 100 0
+no one should die, simulation should stop after 0 eats (minumum eats: 0)
+4 410 200 200 0
+no one should die, simulation should stop after 0 eats (minumum eats: 0)
+4 311 150 150 0
+no one should die, simulation should stop after 0 eats (minumum eats: 0)
+4 800 200 200 0
+no one should die, simulation should stop after 0 eats (minumum eats: 0)
+5 800 200 200 0
+no one should die, simulation should stop after 0 eats (minumum eats: 0)
+5 600 150 150 0
+no one should die, simulation should stop after 0 eats (minumum eats: 0)
+100 210 100 100 0
+no one should die, simulation should stop after 0 eats (minumum eats: 0)
+100 800 200 200 0
+no one should die, simulation should stop after 0 eats (minumum eats: 0)
+105 800 200 200 0
+no one should die, simulation should stop after 0 eats (minumum eats: 0)
+200 800 200 200 0
+no one should die, simulation should stop after 0 eats (minumum eats: 0)

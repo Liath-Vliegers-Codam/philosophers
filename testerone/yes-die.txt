@@ -1,0 +1,36 @@
+1 800 200 200
+a philo should die
+4 310 200 100
+a philo should die
+4 200 205 200
+a philo should die
+-5 600 200 200
+should error and not run (no crashing)
+4 -5 200 200
+should error and not run (no crashing)
+4 600 -5 200
+should error and not run (no crashing)
+4 600 200 -5
+should error and not run (no crashing)
+4 600 200 200 -5
+should error and not run (no crashing)
+3 100 200 110
+Liath: a philo should die
+3 100 200 210
+Liath: a philo should die
+3 310 200 100
+LIATH: The death timing target (a philosopher should ideally die 310)
+3 310 200 100
+LIATH: test again [310]
+3 310 200 100
+LIATH: test again [310]
+3 310 200 100
+LIATH: test again [310]
+2 60 60 60
+LIATH: a philo should die
+2 60 60 60
+LIATH: test to check time
+2 60 60 60
+LIATH: test to check time
+2 60 60 60
+LIATH: test to check time

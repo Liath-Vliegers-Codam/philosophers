@@ -1,0 +1,7 @@
+
+.vscode
+
+.obj
+lib_liath/.obj_lib
+lib_liath/lib_liath.a
+philo
