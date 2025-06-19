@@ -1,0 +1,1 @@
+./testerone/test.sh: line 64: philo: command not found
